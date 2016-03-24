@@ -2,13 +2,14 @@
 ## SYNOPSIS 
 A node JS script that develops a Naive Bayes Model for SMS spam detection. 
 ## BACKGROUND
-Naive Bayes is a probabilistic model that is based on Bayes Theorem. It is popularly used as a text categorization, whether the given text belongs to specific class or not. Examples : 
+Naive Bayes is a probabilistic model that is based on Bayes Theorem. It is popularly used as a text categorization, whether the given text belongs to specific class or not. For example,
+
 1. Sports or Politics 
 2. Email Spam 
 ## IMPORTANT REQUIREMENTS
 NodeJS and NPM  
-Please download NodeJS and NPM from this link https://nodejs.org/en/download/
-Download only the stable version
+- Please download NodeJS and NPM from this link https://nodejs.org/en/download/
+- Download only the stable version
 ## FILES PROVIDED
 ~~~~sh
     --- dataset/
@@ -18,7 +19,8 @@ Download only the stable version
     --- classifier.js
 ~~~~
 ## INSTRUCTIONS 
-1. Make sure you have NodeJS and NPM installed. Test it by entering the following commands in your command prompt/terminal - Windows Users (Command Prompt)
+1. Make sure you have NodeJS and NPM installed. Test it by entering the following commands in your command prompt/terminal
+- Windows Users (Command Prompt)
 ~~~~sh 
 node --version
 npm --version
