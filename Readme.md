@@ -57,11 +57,6 @@ node classifier.js
 nodejs classifier.js
 ~~~~
    6. You can see the results on the console. 
-
-
-
-
-
 ## References
 1. https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 2. https://nodejs.org/en/
@@ -69,6 +64,4 @@ nodejs classifier.js
 4. https://en.wikipedia.org/wiki/Precision_and_recall
 5. https://www.npmjs.com/package/bayes
 
-
-
-	
+##### Copyright © 2015 Vaikunth Sridharan
